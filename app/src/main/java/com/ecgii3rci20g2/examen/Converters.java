@@ -1,5 +1,7 @@
 package com.ecgii3rci20g2.examen;
 
+import androidx.room.TypeConverter;
+
 import java.util.Date;
 
 public class Converters {
